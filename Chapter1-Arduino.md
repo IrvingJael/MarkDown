@@ -169,21 +169,29 @@ For this case, we are going to see a list from some of the popular boards:
 
 ### Arduino Micro:
 This Arduino board is the smallest in the Arduino family. His microcontroller is a ATmega32U4.
+
 ![](https://cdn.shopify.com/s/files/1/0438/4735/2471/products/A000053_03.front._618x464.jpg?v=1626444584)
+
 The board count with a total of 20 digital pins, 7 of these can be used for PWM output, and other 12 can be used as analog input.
 
 ### Arduino Mega 2560.
 This board is designed for the mos complex projects for example pototipes or 3D printers.
 It counts with a total of 53 digial I/O pins, 16 analog input pins and 15 PWM output pins. Aditional, it has 4 serial UARTs for serial connections.
+
 ![](https://www.electrontools.com/Home/WP/wp-content/uploads/2016/04/Arduino-mega.jpg)
+
 ### Lilypad.
 This Arduino board is designet for wearable projects is designed for wearable projects. It can be sewn into fabrics and use power supplies and sensors that are also sewn into fabrics. The Lilypad is based on the ATmega168V or ATmega328V (low power versions). This board features 16 digital I/O, 6 analog inputs and 6 PWM outputs.
+
 ![](https://docs.arduino.cc/static/1a057094ced72ec250b014e92a58af22/a207c/lilypad_main.jpg)
+
 ### Arduino Nano.
 This board has a lot of similarities with the Arduino Micro, but this was released before that Micro, Arduino Nano was released in 2008 and Micro in 2012.
 This board has 14 digital I/O pins, 8 analog input pisn and 6 PWM output pins.
 The Arduino Nano is easier to obtain than the Micro because there are so many generic Nano boards, and the majority of times, the Nano board is half price of the micro.
+
 ![](https://cdn.shopify.com/s/files/1/0438/4735/2471/products/A000005_04.back_618x464.jpg?v=1628695103)
+
 ### Generic boards
 There is a lot of generic boards because Arduino is an open source hardware and software plataform.
 An advantage of this boards is that they are cheaper and usually easier to obtain than the genuine Arduino boards.
