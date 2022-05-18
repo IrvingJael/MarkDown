@@ -49,8 +49,7 @@ The Arduino is an open source hardware and software platform that is incredibly 
 
 As we can see, the Arduino Uno of today still uses the blue color that the original Arduino designers chose to help their boards stand out. The following is a list of major components of the Arduino Uno:
 
-DC supply Input: The DC supply input can be used with an AC-to-DC power adapter or a battery. The power source can be connected using a 2.1 mm centerpositive plug. The Arduino Uno operates at 5 volts but can have a maximuminput of 20 volts; however, it is recommended to not use more than 12V.
-
+-DC supply Input: The DC supply input can be used with an AC-to-DC power adapter or a battery. The power source can be connected using a 2.1 mm centerpositive plug. The Arduino Uno operates at 5 volts but can have a maximuminput of 20 volts; however, it is recommended to not use more than 12V.
 - Voltage Regulator: The Arduino uses a linear regulator to control the voltage going into the board
 - USB Port: The USB port can be used to power and program the board.
 - RESET button: This button, when pressed, will reset the board.
