@@ -175,7 +175,7 @@ This Arduino board is the smallest in the Arduino family. His microcontroller is
 The board count with a total of 20 digital pins, 7 of these can be used for PWM output, and other 12 can be used as analog input.
 
 ### Arduino Mega 2560.
-This board is designed for the mos complex projects for example pototipes or 3D printers.
+This board is designed for the most complex projects for example pototipes or 3D printers.
 It counts with a total of 53 digial I/O pins, 16 analog input pins and 15 PWM output pins. Aditional, it has 4 serial UARTs for serial connections.
 
 ![](https://www.electrontools.com/Home/WP/wp-content/uploads/2016/04/Arduino-mega.jpg)
