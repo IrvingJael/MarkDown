@@ -191,6 +191,8 @@ In the next images we'll see some examples for generic boards like Arduino Uno a
 
 ![Generic Arduino Uno](https://http2.mlstatic.com/S_982625-MLM25478726468_042017-O.jpg)
 ![Generic Arduino Uno](https://cdn.shopify.com/s/files/1/0076/2098/4932/products/HTB1ljAUcLc3T1VjSZLeq6zZsVXao_1024x1024@2x.png?v=1563299512)
+
+
 The first thing that we see is that these boards don't conrain the Arduino logo, but they still contain the name of the official board.
 Some of the generic boards doesn't see like the genuine, some of manufactrers chose to take the Arduino reference design and add additional functionality to their boards. Example:
 
