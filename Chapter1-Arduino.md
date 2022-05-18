@@ -71,7 +71,7 @@ As we can see, the Arduino Uno of today still uses the blue color that the origi
 
 The Arduino can be powered in one of three ways: through the VIN/GND pins, the DC Supply Input port or the USB port.
 
-### Using the VIN/GND pins to power the Arduino (OPTION)
+### Using the VIN/GND pins to power the Arduino
 
 The VIN and GND pins in the power and external reset header can be used to power the Arduino with an external battery. Powering the Arduino in this way is mainly used when we wish to connect a battery, in series, with a switch to turn the power to the Arduino on and off. The following photograph illustrates this:
 
